@@ -12,10 +12,10 @@ This is the core of all the practice we are doing in the first steps. I'll be ex
 - [Linux/Unix](https://git-scm.com/download/linux)
 - [macOS](https://git-scm.com/download/mac)
 
-##Notepad ++
+## Notepad ++
 
 This application will be my editor software to manipulate my markdown documents in as raw format as possible.
 
-##Download pages
+## Download pages
 
 - [Windows](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.3.2/npp.8.3.2.Installer.x64.exe)
